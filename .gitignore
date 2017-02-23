@@ -5,7 +5,7 @@
 **/Readings/
 **/Figures/
 **/Notebooks/
-**/Datasets/
+**/Datasets/NotForRepo/
 
 # Ignore Jupyter/IPython Notebook Checkpoints
 **/.ipynb_checkpoints/
